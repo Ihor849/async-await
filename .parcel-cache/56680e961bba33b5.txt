@@ -1,4 +1,4 @@
-4721
+4817
 77E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src\partials133233566177724396 1
 118E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-tree\lib\syntax\node\TypeSelector.js133233567364441201 0
 85E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\timsort133233567211126192 1
@@ -39,9 +39,11 @@
 120E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\offline-apps.js133233574593150869 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lmdb\dependencies\lz4\lib\lz4.h133233567362356697 0
 78E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\.editorconfig133233566177419087 0
+92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\uncss.cmd133233899377983702 0
 131E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133233567347097800 0
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\svgo\plugins\collapseGroups.js133233567249572513 0
 122E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\workers\lib\process\ProcessWorker.js133233567273048703 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\parser.ps1133233899377573289 0
 76E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\.htmlnanorc133233566177450141 0
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\cosmiconfig\dist\readFile.d.ts133233567294673192 0
 87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\path-type133233567188659032 1
@@ -78,15 +80,17 @@
 96E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\is-number\index.js133233567161908482 0
 130E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-media-range-syntax.js133233574580551353 0
 96E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\node-releases\data133233567188731554 1
+91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\uuid.cmd133233899377983702 0
 104E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\v8-compile-cache\README.md133233567192873355 0
 126E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\source-map-support\browser-source-map-support.js133233567160685110 0
 101E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\node-releases\README.md133233567201370898 0
 99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\run-parallel\index.js133233567161501286 0
 72E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\db.json132490487460000000 0
+92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\is-ci.ps1133233899377593275 0
 87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\json5\lib133233567259078529 1
 122E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-postcss\src\constants.js133233567177946366 0
 102E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\abortcontroller-polyfill133233567242563722 1
-69E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist133233733756154672 1
+69E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist133233912177228230 1
 100E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\optimizer-svgo133233567185272790 1
 107E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\svgo\plugins\removeViewBox.js133233567347177129 0
 102E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-select\lib\sort.d.ts133233567288724314 0
@@ -95,14 +99,14 @@
 118E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\lib\requests\PathRequest.js133233567363226303 0
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\svgo\plugins\sortAttrs.js133233567350710793 0
 126E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\orientation-sensor.js133233574593390710 0
-77E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules133233574634639044 1
+77E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules133233900060229524 1
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml-parser\dist\index.d.ts133233567213120155 0
 121E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\vector-effect.js133233574598487575 0
 98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\type-fest\index.d.ts133233567249494975 0
 96E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\acorn\CHANGELOG.md133233567224737326 0
 141E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133233567258217940 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\source-map-js\lib\quick-sort.js133233567207318243 0
-95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@msgpackr-extract133233574634669019 1
+95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@msgpackr-extract133233900058840381 1
 99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\node-gyp-build\bin.js133233567161783945 0
 77E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\package.json133233894753061440 0
 96E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\fastq\test\test.js133233567199738034 0
@@ -114,9 +118,9 @@
 105E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\domutils\lib\stringify.d.ts133233567267930024 0
 102E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@swc\helpers\src\_set.js133233567367771050 0
 114E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\htmlnano\lib\modules\mergeScripts.js133233567243427909 0
-87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@trysound133233567103131644 1
+87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@trysound133233900059290098 1
 112E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\terser\lib\compress\reduce-vars.js133233567331878841 0
-84E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@babel133233567103151714 1
+84E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@babel133233900058800409 1
 111E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@swc\helpers\lib\_to_primitive.js133233567351602316 0
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\svgo\plugins\removeComments.js133233567318088548 0
 106E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\sass\types\value\string.d.ts133233567357141942 0
@@ -127,7 +131,7 @@
 77E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\README.en.md133233566177490112 0
 132E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\react-refresh\cjs\react-refresh-runtime.development.js133233567197704684 0
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\nth-check\lib\esm\package.json133233567212304881 0
-85E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel133233574634649035 1
+85E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel133233900059390040 1
 128E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3133233567290126964 1
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\markdown-ansi\lib133233567162499821 1
 77E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\README.pl.md133233566177510114 0
@@ -146,6 +150,7 @@
 87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src\sass\_example.scss133233566177852649 0
 99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\yaml\browser\types.js133233567315457934 0
 136E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js133233574591487974 0
+98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\json-server.cmd133233899377673301 0
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\is-binary-path\index.d.ts133233567162040988 0
 104E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml-include\README.md133233567184207687 0
 111E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\reporter-cli\package.json133233567242907004 0
@@ -157,7 +162,7 @@
 77E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\README.uk.md133233566177520105 0
 133E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133233567382278210 0
 102E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\postcss-value-parser\lib133233567215421935 1
-84E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@lezer133233567103151714 1
+84E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@lezer133233900058890346 1
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\regions\ER.js133233574584008472 0
 68E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src133233572523494114 1
 86E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src\01-try-catch.html132490487460000000 0
@@ -170,7 +175,7 @@
 72E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src\css133233572520567911 1
 106E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\fast-glob\out\utils\errno.js133233567222701915 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\utils\src\collection.js133233567207054918 0
-82E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src\03-async.html133233678694987081 0
+82E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src\03-async.html133233912139829209 0
 116E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\svgo\lib\svgo\css-style-declaration.js133233567274467478 0
 75E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src\images133233566177704399 1
 125E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133233567165263497 0
@@ -192,7 +197,7 @@
 101E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\is-binary-path\index.js133233567172129993 0
 110E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@mischnic\json-sourcemap\LICENSE133233567159472226 0
 125E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-width-stretch.js133233574582259541 0
-82E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src\js\My-crud.js133233892175718404 0
+82E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src\js\My-crud.js133233910866470212 0
 112E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\parcel-reporter-clean-dist\LICENSE133233567161545032 0
 91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\fast-glob\out133233567320416447 1
 110E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\svgo\plugins\removeEmptyAttrs.js133233567328144574 0
@@ -224,7 +229,7 @@
 98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\csso\lib\compress.js133233567252286041 0
 116E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-zoom.js133233574582319519 0
 133E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map133233567241996785 0
-79E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src\js\crud.js133233740157076230 0
+79E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src\js\crud.js133233901936199086 0
 90E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml\lib133233567171000276 1
 114E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\lib\summarizeRequest.js133233567374017177 0
 91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\yaml\index.js133233567226369896 0
@@ -242,12 +247,12 @@
 84E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\src\images\logo.png133233566177714398 0
 105E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\node-gyp-build\package.json133233567197684695 0
 90E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\yaml\LICENSE133233567153532200 0
-82E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin133233567515263188 1
+82E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin133233900060169562 1
 104E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\react-refresh\package.json133233567222951758 0
 121E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-js\src\JSTransformer.js133233567201731359 0
 86E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\anymatch133233567189078922 1
-89E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@jridgewell133233567102958909 1
-87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@mischnic133233567102948911 1
+89E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@jridgewell133233900058830391 1
+87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@mischnic133233900058840381 1
 116E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\push-api.js133233574594440057 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\regions\SN.js133233574596069050 0
 91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\timsort\build133233567207248205 1
@@ -261,16 +266,16 @@
 110E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\react-error-overlay\lib\index.js133233567207631507 0
 100E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\timsort\src\timsort.js133233567215818672 0
 107E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@swc\helpers\src\_ts_param.js133233567370039635 0
-82E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@swc133233567103141671 1
+82E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@swc133233900059270121 1
 95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\term-size\license133233567177324464 0
-86E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@nodelib133233567103151714 1
+86E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@nodelib133233900058900343 1
 147E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\embed\embed2133233567339402856 1
 107E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\lib\constants.js133233567337924454 0
 98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\electron-to-chromium133233567241684962 1
 116E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\auxclick.js133233574573530614 0
 92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\to-regex-range133233567179677036 1
 112E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\src\resolveOptions.js133233567371468784 0
-84E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@types133233567103131644 1
+84E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@types133233900059330069 1
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\watcher\src\linux133233567267398020 1
 85E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\reusify133233567207144866 1
 85E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\is-glob133233567179866899 1
@@ -331,6 +336,7 @@
 114E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\svgo\plugins\removeElementsByAttr.js133233567326175208 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\regions\CK.js133233574577905380 0
 98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\postcss-value-parser133233567210742306 1
+95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\miller-rabin133233899377963715 0
 117E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lmdb\node_modules\node-addon-api\napi.h133233567235064754 0
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\test\ParcelConfigRequest.test.js133233567362506607 0
 102E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\term-size\vendor\windows133233567196793615 1
@@ -632,6 +638,7 @@
 92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\ordered-binary133233567223895074 1
 116E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\entities\lib\decode_codepoint.d.ts.map133233567243658095 0
 84E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\parcel133233567213080185 1
+91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\mime.cmd133233899377963715 0
 97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\nan\tools\README.md133233567318931499 0
 113E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\csso\lib\replace\property\border.js133233567244469702 0
 91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\parent-module133233567179886903 1
@@ -762,6 +769,7 @@
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\regions\AE.js133233574572051283 0
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\browserslist\package.json133233567215147573 0
 122E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts133233567273992337 0
+91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\atob.cmd133233899377573289 0
 97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lmdb\dist\index.cjs133233567356538832 0
 90E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\yaml\browser133233567319726807 1
 126E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\packager-js\src\ScopeHoistingPackager.js133233567251726270 0
@@ -789,6 +797,7 @@
 116E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\packager-js\lib\dev-prelude.js133233567187737888 0
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\fs-search\LICENSE133233567158096994 0
 95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\yaml\parse-cst.js133233567264559589 0
+99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\miller-rabin.cmd133233899377963715 0
 113E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\postcss-value-parser\lib\index.d.ts133233567222601981 0
 116E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-sel2.js133233574581460037 0
 106E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\workers\src\index.js133233567252086151 0
@@ -819,6 +828,7 @@
 97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\nth-check\README.md133233567257378932 0
 112E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\reporter-cli\src\render.js133233567235732660 0
 92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\yaml\util.d.ts133233567339201734 0
+89E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\parser133233899377573289 0
 90E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\yaml\util.js133233567321511801 0
 125E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml\node_modules\posthtml-parser\readme.md133233567201751383 0
 98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\svgo\lib\svgo\coa.js133233567245443136 0
@@ -881,6 +891,7 @@
 105E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\sass\types\value\index.d.ts133233567353242745 0
 121E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lmdb\dependencies\lz4\lib\lz4frame_static.h133233567362446642 0
 97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\yaml\browser\seq.js133233567291241159 0
+87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\uuid133233899377983702 0
 98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\yaml\browser\util.js133233567319906908 0
 102E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\nth-check\lib\compile.js133233567163015149 0
 104E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\node-resolver-core133233567355817921 1
@@ -1077,6 +1088,7 @@
 117E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\runtime-browser-hmr\lib\loaders133233567165631327 1
 100E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\nan\nan_maybe_43_inl.h133233567232691495 0
 121E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-when-else.js133233574582209571 0
+97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\esvalidate.cmd133233899377593275 0
 105E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\immutable\dist\immutable.js133233567224647378 0
 117E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\test\TargetRequest.test.js133233567391677851 0
 119E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\parcel-reporter-clean-dist\dist\module.js133233567232771491 0
@@ -1178,6 +1190,7 @@
 113E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\type-fest\source\tsconfig-json.d.ts133233567292740277 0
 121E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\type-fest\source\union-to-intersection.d.ts133233567294250775 0
 124E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-postcss\lib\loadPlugins.js133233567202285380 0
+92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\uncss.ps1133233899377983702 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\type-fest\source\utilities.d.ts133233567295349280 0
 111E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\es6.js133233574584258321 0
 134E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\parcel-reporter-clean-dist\test\unit\removeFiles.spec.js133233567243678096 0
@@ -1268,6 +1281,7 @@
 122E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@swc\helpers\src\_tagged_template_literal.js133233567368390640 0
 102E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\terser\tools\terser.d.ts133233567349730381 0
 107E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\terser\node_modules\commander133233567198731034 1
+95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\uglifyjs.ps1133233899377973689 0
 120E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\terser\node_modules\commander\CHANGELOG.md133233567186012578 0
 130E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\prefers-reduced-motion.js133233574594210198 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\regions\PG.js133233574593800454 0
@@ -1302,6 +1316,7 @@
 112E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml-expressions\lib\backup.js133233567162729697 0
 122E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\terser\lib\compress\drop-side-effect-free.js133233567279752308 0
 93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\fastq\README.md133233567220103047 0
+91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\uuid.ps1133233899379108190 0
 115E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\test\PublicAsset.test.js133233567364280286 0
 145E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module133233567358677397 1
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\codeframe\LICENSE133233567159355769 0
@@ -1407,7 +1422,7 @@
 139E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js133233567288684273 0
 99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\svgo\lib\svgo-node.js133233567353232753 0
 110E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\chokidar\lib\fsevents-handler.js133233567179826925 0
-95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\02-json-parse.758e5c96.js133233710346097496 0
+95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\02-json-parse.758e5c96.js133233900722630704 0
 138E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133233567167746019 0
 117E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\csso\lib\restructure\6-restructBlock.js133233567203914830 0
 95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\svgo\lib\types.ts133233567357694557 0
@@ -1478,6 +1493,7 @@
 100E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\compressor-raw133233567185292788 1
 105E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\source-map-js\lib\base64.js133233567184488778 0
 106E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\node-addon-api\noexcept.gypi133233567188761522 0
+95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sshpk-verify133233899377973689 0
 126E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133233567260200115 0
 112E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\source-map-js\lib\binary-search.js133233567196192535 0
 94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\has-flag\license133233567182377968 0
@@ -1526,6 +1542,7 @@
 131E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133233574583039073 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\regions\YT.js133233574599816760 0
 182E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo\package.json133233567359937846 0
+94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\js-yaml.ps1133233899377593275 0
 100E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\source-map\lib\util.js133233567242952649 0
 107E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\source-map\index.d.ts133233567357984383 0
 130E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133233567357964395 0
@@ -1722,15 +1739,18 @@
 98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml-render\dist133233567201200987 1
 92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\nan\nan_json.h133233567227554074 0
 130E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@swc\helpers\lib\_class_private_field_destructure.js133233567256749409 0
+99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\miller-rabin.ps1133233899377963715 0
 96E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\msgpackr\unpack.js133233567243387938 0
 101E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml-render\license133233567153648601 0
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\resource-timing.js133233574594889790 0
 111E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\src\public\Bundle.js133233567289064092 0
 105E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-tree\lib\lexer\error.js133233567320837826 0
 106E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml-render\package.json133233567174081197 0
+97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\handlebars.cmd133233899377593275 0
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\msgpackr-extract\index.js133233567184488778 0
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml-render\readme.md133233567196763636 0
 126E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\entities\lib\generated\decode-data-html.d.ts.map133233567244799679 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\cssesc.cmd133233899377583279 0
 99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml\node_modules133233567103211676 1
 127E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-svg\test\parseFuncIRI.test.js133233567203884854 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml-render\dist\index.d.ts133233567201933118 0
@@ -1747,6 +1767,7 @@
 92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\nan\doc\new.md133233567312794468 0
 132E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133233574591687859 0
 118E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml-parser\dist\location-tracker.js133233567183965891 0
+94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\esparse.cmd133233899377583279 0
 127E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\dom-serializer\node_modules\entities\package.json133233567224657363 0
 112E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\posthtml-match-helper\package.json133233567161525256 0
 138E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi93.node133233567193974855 0
@@ -1754,6 +1775,7 @@
 121E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\fast-glob\out\providers\matchers\matcher.js133233567244519673 0
 134E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag133233567249957031 0
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\form-validation.js133233574585367625 0
+95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\loose-envify133233899377963715 0
 99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\nan\doc\persistent.md133233567315477919 0
 115E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@swc\helpers\src\_get_prototype_of.js133233567362376680 0
 124E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\dom-serializer\node_modules\entities\readme.md133233567244469702 0
@@ -1880,6 +1902,7 @@
 99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\parent-module\license133233567172614426 0
 114E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-tree\lib\syntax\node\Operator.js133233567358373131 0
 100E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\color-convert\route.js133233567206542885 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sshpk-conv133233899377973689 0
 101E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-raw133233567185222760 1
 106E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\ordered-binary\tests\test.js133233567196773633 0
 105E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-select\lib\compile.d.ts133233567278737694 0
@@ -1975,6 +1998,7 @@
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lmdb\dependencies\lz4\lib133233567376225819 1
 95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\parcel\src\bin.js133233567176944697 0
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133233567363639915 0
+95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\uglifyjs.cmd133233899377973689 0
 107E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\cache\lib\IDBCache.js133233567202549574 0
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\ordered-binary\index.d.ts133233567224823409 0
 99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\namer-default133233567185292788 1
@@ -2018,6 +2042,7 @@
 101E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\normalize-path\index.js133233567161908482 0
 115E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\utils\src\prettyDiagnostic.js133233567333218982 0
 110E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\msgpackr-extract\src\extract.cpp133233567163216166 0
+94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\js-yaml.cmd133233899377593275 0
 102E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\normalize-path\README.md133233567181433590 0
 106E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\node-releases\data\processed133233567162739670 1
 118E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\word-break.js133233574599556916 0
@@ -2173,6 +2198,7 @@
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-tree\lib\parser\sequence.js133233567362214987 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\regions\NU.js133233574592950989 0
 140E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\010-introduction.md133233567332048031 0
+95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\quote-stream133233899377973689 0
 117E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\autofocus.js133233574573500644 0
 104E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\compressor-raw\lib133233567162509811 1
 97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\merge2\package.json133233567172119995 0
@@ -2308,6 +2334,7 @@
 128E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\alternate-stylesheet.js133233574572530975 0
 105E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lmdb\src\ordered-binary.cpp133233567358084317 0
 94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lmdb\src\txn.cpp133233567358353097 0
+91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\brfs.ps1133233899377973689 0
 104E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\htmlparser2\lib\index.d.ts133233567244519673 0
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lmdb\src\v8-functions.cpp133233567358647404 0
 96E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lmdb\src\windows.c133233567355237222 0
@@ -2432,6 +2459,7 @@
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lines-and-columns\LICENSE133233567154037403 0
 116E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\htmlnano\lib\modules\sortAttributes.js133233567280547129 0
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lines-and-columns\package.json133233567176584943 0
+97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sshpk-sign.ps1133233899377973689 0
 105E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lines-and-columns\README.md133233567184207687 0
 99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\dotenv-expand\LICENSE133233567182388007 0
 112E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\lines-and-columns\build\index.d.ts133233567193095628 0
@@ -2574,6 +2602,7 @@
 97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\assets\actions-config-step-1.png133233566177560082 0
 110E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\htmlnano\docs\versioned_sidebars133233567323911057 1
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-raw\src\RawTransformer.js133233567177702015 0
+89E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\rc.ps1133233899377973689 0
 114E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\bigint.js133233574575220415 0
 139E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133233567183545347 0
 91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\svgo.cmd133233567515313165 0
@@ -2635,6 +2664,7 @@
 92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\fastq\queue.js133233567193242225 0
 99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\fastq\test\promise.js133233567184787422 0
 128E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\subresource-bundling.js133233574596478810 0
+91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\mime.ps1133233899377963715 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\regions\MA.js133233574591078223 0
 101E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\fastq\.github\workflows133233567235772603 1
 118E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\watcher\src\windows\win_utils.cc133233567243514407 0
@@ -2684,6 +2714,7 @@
 120E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\fast-glob\out\providers\filters\entry.d.ts133233567285715107 0
 111E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@swc\helpers\src\_create_class.js133233567360836052 0
 104E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\utils\.eslintrc.js133233567162509811 0
+87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\atob133233899377563291 0
 111E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-tree\lib\syntax\config\mix.js133233567356558803 0
 114E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\fast-glob\out\managers\patterns.d.ts133233567317089768 0
 111E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\fast-glob\out\managers\tasks.d.ts133233567332548133 0
@@ -2923,6 +2954,7 @@
 104E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-what\lib\es\parse.d.ts133233567261537731 0
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-what\lib\es\stringify.d.ts133233567267930024 0
 112E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-what\lib\es\stringify.d.ts.map133233567246572273 0
+89E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\rimraf133233899377973689 0
 110E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-what\lib\commonjs\index.d.ts133233567255702938 0
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\css-what\lib\commonjs\index.js133233567167366974 0
 102E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-html133233567213190107 1
@@ -3179,7 +3211,9 @@
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\regions\BN.js133233574575440285 0
 113E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\fetch.js133233574584518157 0
 113E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\runtime-browser-hmr\LICENSE133233567157857114 0
+94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\03-async.e6dc3eee.js.map133233912172652888 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\regions\BR.js133233574575610185 0
+90E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\envinfo133233899377583279 0
 118E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\test\RequestTracker.test.js133233567370189533 0
 134E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133233567294250775 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\regions\BS.js133233574575790078 0
@@ -3427,6 +3461,7 @@
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-containment.js133233574579264539 0
 120E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-counters.js133233574579314513 0
 122E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-cross-fade.js133233574579374497 0
+90E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\03-async.e6dc3eee.js133233912172652888 0
 126E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-default-pseudo.js133233574579394462 0
 127E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-descendant-gtgt.js133233574579424447 0
 128E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-deviceadaptation.js133233574579454425 0
@@ -3469,7 +3504,6 @@
 130E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-print-color-adjust.js133233574581140230 0
 127E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-read-only-write.js133233574581170226 0
 113E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\package-manager\src\Yarn.js133233567289723597 0
-90E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\03-async.6d605dc2.js133233733756114688 0
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\css-reflections.js133233574581220178 0
 119E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\wbr-element.js133233574598857346 0
 111E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\rem.js133233574594779859 0
@@ -3517,6 +3551,7 @@
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\binary-extensions\binary-extensions.json.d.ts133233567198303701 0
 121E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\dispatchevent.js133233574583258934 0
 100E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\logger\LICENSE133233567158260755 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sha.js.ps1133233899377973689 0
 120E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\do-not-track.js133233574583388843 0
 130E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\document-currentscript.js133233574583458802 0
 128E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\document-execcommand.js133233574583508776 0
@@ -3596,6 +3631,7 @@
 128E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\intersectionobserver.js133233574588335969 0
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\intrinsic-width.js133233574588632315 0
 114E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\jpegxr.js133233574589012079 0
+92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\escodegen133233899377583279 0
 136E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133233574589132011 0
 130E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\keyboardevent-charcode.js133233574589221952 0
 138E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\keyboardevent-getmodifierstate.js133233574589281934 0
@@ -3681,7 +3717,6 @@
 112E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\src\InternalConfig.js133233567356112656 0
 124E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\speech-synthesis.js133233574596198977 0
 119E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\sql-storage.js133233574596258949 0
-99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\01-try-catch.101ee4ef.css.map133233710346087488 0
 114E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\srcset.js133233574596298923 0
 114E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\stream.js133233574596378869 0
 120E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\caniuse-lite\data\features\style-scoped.js133233574596458815 0
@@ -3759,7 +3794,7 @@
 125E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-html\lib\HTMLTransformer.js133233567189607686 0
 104E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\workers\lib\bus.js133233567187255423 0
 97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\braces\CHANGELOG.md133233567162429879 0
-83E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\03-async.html133233710346087488 0
+83E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\03-async.html133233912176900714 0
 93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\braces\index.js133233567173179014 0
 92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\braces\LICENSE133233567182960946 0
 99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\braces\lib\compile.js133233567201655049 0
@@ -3789,6 +3824,7 @@
 131E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\runtime-js\lib\helpers\browser\html-loader.js133233567249977015 0
 95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@types\parse-json133233567179996825 1
 106E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@types\parse-json\index.d.ts133233567173199069 0
+99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sshpk-verify.ps1133233899377973689 0
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\watcher\src\DirTree.cc133233567203894851 0
 125E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\test\fixtures\config-node-pipeline133233567198303701 1
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@types\parse-json\LICENSE133233567156560071 0
@@ -3982,6 +4018,7 @@
 102E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\watcher\src\unix133233567229863355 1
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\watcher\src\Watcher.cc133233567235592654 0
 149E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\index.js133233567216374193 0
+88E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\jsesc133233899377673301 0
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\watcher\src\Watcher.hh133233567277967832 0
 106E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\watcher\src\watchman133233567279432284 1
 105E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\watcher\src\windows133233567280973790 1
@@ -4047,6 +4084,7 @@
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\runtime-js\package.json133233567313044322 0
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133233567215397548 0
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js133233567210712330 0
+92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\which.cmd133233899377983702 0
 110E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-sass\LICENSE133233567156644964 0
 115E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-sass\package.json133233567189537730 0
 125E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\transformer-sass\lib\SassTransformer.js133233567164318994 0
@@ -4120,6 +4158,7 @@
 97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\node-gyp-build133233567515283175 0
 129E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs133233567357864464 0
 152E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node133233567282493623 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\mkdirp.cmd133233899377963715 0
 150E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node133233567313074283 0
 153E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133233567352504123 0
 114E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\source-map\dist\node.js.flow133233567159875611 0
@@ -4163,6 +4202,7 @@
 131E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\runtime-js\lib\helpers\browser\wasm-loader.js133233567288894264 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\runtime-browser-hmr\lib133233567197326937 1
 117E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\runtime-browser-hmr\src\loaders133233567211910831 1
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\cssesc.ps1133233899377583279 0
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js133233567198781019 0
 115E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\resolver-default\package.json133233567187537798 0
 106E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\resolver-default\src133233567176764802 1
@@ -4236,6 +4276,7 @@
 120E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\hash\parcel-hash.darwin-arm64.node133233567228283608 0
 113E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\optimizer-svgo\package.json133233567187567815 0
 104E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\optimizer-svgo\src133233567176764802 1
+98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\regjsparser.ps1133233899377973689 0
 121E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\optimizer-svgo\src\SVGOOptimizer.js133233567178537694 0
 111E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\optimizer-image\native.js133233567185292788 0
 139E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\optimizer-image\parcel-image.linux-arm-gnueabihf.node133233567328424468 0
@@ -4360,6 +4401,7 @@
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\diagnostic\package.json133233567198535007 0
 101E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\diagnostic\test133233567189667642 1
 118E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\diagnostic\test\markdown.test.js133233567192048696 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\rimraf.ps1133233899377973689 0
 114E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\diagnostic\src\diagnostic.js133233567180666584 0
 116E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts133233567203924825 0
 135E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\css-win32-x64-msvc\parcel-css.win32-x64-msvc.node133233567293638299 0
@@ -4473,6 +4515,7 @@
 112E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\src\public\Symbols.js133233567374876654 0
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\lib\AssetGraph.js133233567258387874 0
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\lib\assetUtils.js133233567280943811 0
+90E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\esparse133233899377583279 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\lib\BundleGraph.js133233567294270763 0
 108E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\lib\Dependency.js133233567338284224 0
 109E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\core\lib\Environment.js133233567349940303 0
@@ -4536,6 +4579,7 @@
 105E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\bundler-default\src133233567179096023 1
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@parcel\bundler-default\src\DefaultBundler.js133233567183323911 0
 97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@nodelib\fs.scandir133233567240043874 1
+85E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\rc133233899377973689 0
 94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@nodelib\fs.stat133233567226379886 1
 94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@nodelib\fs.walk133233567243587915 1
 102E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@nodelib\fs.walk\LICENSE133233567159402271 0
@@ -4623,6 +4667,7 @@
 124E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@jridgewell\trace-mapping\dist\types\sort.d.ts133233567236634028 0
 137E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@jridgewell\trace-mapping\dist\types\sourcemap-segment.d.ts133233567241054809 0
 110E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@jridgewell\sourcemap-codec\dist133233567211505488 1
+96E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\escodegen.ps1133233899377583279 0
 113E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@jridgewell\sourcemap-codec\LICENSE133233567159412264 0
 118E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@jridgewell\sourcemap-codec\package.json133233567176844757 0
 134E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.mjs.map133233567188063922 0
@@ -4674,7 +4719,6 @@
 126E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@babel\highlight\node_modules\chalk\package.json133233567159955560 0
 123E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@babel\highlight\node_modules\chalk\readme.md133233567196723601 0
 128E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@babel\highlight\node_modules\ansi-styles\index.js133233567166763488 0
-94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\03-async.6d605dc2.js.map133233733756124687 0
 127E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@babel\highlight\node_modules\ansi-styles\license133233567176914712 0
 129E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@babel\highlight\node_modules\ansi-styles\readme.md133233567186056895 0
 107E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@babel\highlight\lib\index.js133233567176864745 0
@@ -4688,10 +4732,40 @@
 103E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@babel\code-frame\LICENSE133233567159545824 0
 105E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\@babel\code-frame\README.md133233567162589764 0
 92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\acorn.ps1133233567515273187 0
+95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\ansi-to-html133233899377563291 0
+99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\ansi-to-html.cmd133233899377563291 0
+99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\ansi-to-html.ps1133233899377563291 0
+91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\atob.ps1133233899377563291 0
+87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\brfs133233899377973689 0
+91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\brfs.cmd133233899377973689 0
 95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\browserslist133233567515263188 0
+89E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\cssesc133233899377583279 0
 98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\detect-libc.cmd133233567515273187 0
 98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\detect-libc.ps1133233567515263188 0
+94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\envinfo.cmd133233899377583279 0
+94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\envinfo.ps1133233899377573289 0
+96E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\escodegen.cmd133233899377583279 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\esgenerate133233899377583279 0
+97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\esgenerate.cmd133233899377583279 0
+97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\esgenerate.ps1133233899377583279 0
+94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\esparse.ps1133233899377583279 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\esvalidate133233899377593275 0
+97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\esvalidate.ps1133233899377583279 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\handlebars133233899377593275 0
+97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\handlebars.ps1133233899377593275 0
+88E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\is-ci133233899377593275 0
+92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\is-ci.cmd133233899377593275 0
+90E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\js-yaml133233899377593275 0
+92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\jsesc.cmd133233899377673301 0
+92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\jsesc.ps1133233899377593275 0
+94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\json-server133233899377963715 0
+98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\json-server.ps1133233899377673301 0
 88E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\json5133233567515283175 0
+99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\loose-envify.cmd133233899377963715 0
+99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\loose-envify.ps1133233899377963715 0
+87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\mime133233899377963715 0
+89E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\mkdirp133233899377963715 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\mkdirp.ps1133233899377963715 0
 115E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\node-gyp-build-optional-packages133233567515293181 0
 128E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133233567515303174 0
 128E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1133233567515303174 0
@@ -4704,17 +4778,39 @@
 101E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\node-gyp-build.ps1133233567515283175 0
 89E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\parcel133233567515303174 0
 93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\parcel.ps1133233567515303174 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\parser.cmd133233899377573289 0
+91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\purgecss133233899377973689 0
+95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\purgecss.cmd133233899377973689 0
+95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\purgecss.ps1133233899377973689 0
+99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\quote-stream.cmd133233899377963715 0
+99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\quote-stream.ps1133233899377963715 0
+89E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\rc.cmd133233899377973689 0
+94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\regjsparser133233899377973689 0
+98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\regjsparser.cmd133233899377973689 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\rimraf.cmd133233899377973689 0
 91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sass.cmd133233567515313165 0
 93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\semver.ps1133233567515313165 0
-95E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\01-try-catch.101ee4ef.css133233710346087488 0
-94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\01-try-catch.3b097f32.js133233710346097496 0
-98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\01-try-catch.3b097f32.js.map133233710346097496 0
-87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\01-try-catch.html133233710346087488 0
-99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\02-json-parse.758e5c96.js.map133233710346097496 0
-88E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\02-json-parse.html133233710346087488 0
-87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\index.579125c3.js133233710346097496 0
-91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\index.579125c3.js.map133233710346097496 0
-80E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\index.html133233710346087488 0
+89E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sha.js133233899377973689 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sha.js.cmd133233899377973689 0
+97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sshpk-conv.cmd133233899377973689 0
+97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sshpk-conv.ps1133233899377973689 0
+93E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sshpk-sign133233899377973689 0
+97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sshpk-sign.cmd133233899377973689 0
+99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\sshpk-verify.cmd133233899377973689 0
+91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\uglifyjs133233899377973689 0
+88E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\uncss133233899377983702 0
+88E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\which133233899377983702 0
+92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\node_modules\.bin\which.ps1133233899377983702 0
+94E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\01-try-catch.3b097f32.js133233900722630704 0
+98E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\01-try-catch.3b097f32.js.map133233900723446936 0
+87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\01-try-catch.html133233900722380830 0
+99E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\02-json-parse.758e5c96.js.map133233900723446936 0
+88E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\02-json-parse.html133233900722380830 0
+88E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\index.101ee4ef.css133233900722630704 0
+92E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\index.101ee4ef.css.map133233900723436940 0
+87E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\index.579125c3.js133233900722641452 0
+91E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\index.579125c3.js.map133233900723446936 0
+80E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\dist\index.html133233900722380830 0
 97E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\assets\actions-config-step-2.png133233566177583983 0
 89E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\assets\repo-settings.png133233566177654423 0
 82E:\IHOR_JavaScript\PROJECT JAVASCRIPT\HOMEWORK_repoz\async-await\assets\status.png133233566177664425 0
