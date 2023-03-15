@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html",
-    "server": "json-server --watch db.json -p 4040 -d 300"
+    "server": "json-server --watch db.json -p 3000 -d 300"
   },
   "repository": {
     "type": "git",
